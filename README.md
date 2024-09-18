@@ -9,3 +9,14 @@ Error Handling for invalid or missing fields.
 Step 1 (Personal Info)
 Step 2 (Address Info)
 Step 3 (Review/Confirmation)
+
+
+Structure -->
+src/
+├── components/
+│   ├── MultiStepForm.js
+│   ├── Step1.js
+│   ├── Step2.js
+│   └── Step3.js
+├── App.js
+└── index.js
